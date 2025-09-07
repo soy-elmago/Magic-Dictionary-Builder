@@ -1,4 +1,4 @@
-# 🔍 Dictionary Builder
+# 🔍 Magic Dictionary Builder
 
 > **Custom wordlist generator for Bug Bounty and Penetration Testing**
 
