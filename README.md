@@ -60,7 +60,7 @@ python3 dictionary_builder.py --test-tools
 
 ```bash
 # Large enterprise domains (no timeout - let it finish)
-python3 dictionary_builder.py -i deere.com -o enterprise_wordlist.txt
+python3 dictionary_builder.py -i target.com -o enterprise_wordlist.txt
 
 # With custom timeout (30 minutes per tool)
 python3 dictionary_builder.py -i target.com -o wordlist.txt -t 1800
